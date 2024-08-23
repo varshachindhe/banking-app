@@ -10,5 +10,8 @@ public class BankingAppApplication {
 		SpringApplication.run(BankingAppApplication.class, args);
 		System.out.println("Hello world,How are you!");
 		System.out.println("new changes");
+		System.out.println("new changes,changes made");
+
+
 	}
 }
